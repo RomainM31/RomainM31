@@ -1,4 +1,5 @@
-# 👋 Salut à toi jeune entrepreneur 👋
+# 👋 Bonjour ! 👋
+
 ## let lastname  = "MORVANT";
 ## let name  = "Romain";
 ## let age  = 28;
